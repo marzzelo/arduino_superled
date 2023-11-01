@@ -1,0 +1,25 @@
+{
+	"name": "SuperLed",
+	"version": "1.0.0",
+	"description": "Manages a GPIO connected to a LED, making it Turn On, Off, or Blink with a programmable Ton, Toff and number of cycles.",
+	"keywords": "Led, Blink",
+	"repository":
+	{
+	  "type": "git",
+	  "url": "https://github.com/marzzelo/arduino.superled.git"
+	},
+	"authors":
+	[
+	  {
+		"name": "Marcelo Valdez",
+		"email": "zedlavolecram@gmail.com",
+		"url": "https://marzzelo.github.io/"
+	  }
+	],
+	"license": "MIT",
+	"homepage": "https://www.helloworld.org/",
+	"dependencies": {
+	},
+	"frameworks": "*",
+	"platforms": "*"
+  }
