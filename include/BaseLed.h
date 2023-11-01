@@ -8,6 +8,9 @@
 #ifndef BASELED_H_
 #define BASELED_H_
 
+#define OFF 0
+#define ON 1
+
 #include "Arduino.h"
 
 
